@@ -1,4 +1,4 @@
-Fingerprint-Based Blood Group Detection using CNN
+#Fingerprint-Based Blood Group Detection using CNN
 A convolutional neural network (CNN) that predicts a person's blood group from a fingerprint image, with a small Flask web app to upload an image and see the prediction.
 
 Published at ICWiCOM 2025 (International Conference on Wireless Communication, DJSCE Mumbai; Springer). Team of 4 students guided by Sayali Badhan. I am the first-listed author.
